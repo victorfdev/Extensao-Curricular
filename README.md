@@ -2,7 +2,7 @@
 
 ## Roteiro do Jogo: "Recicle e Salve o Planeta"
 
-#Objetivo do Jogo#
+### Objetivo do Jogo:
 
 Educar os jogadores sobre a importância da reciclagem e a correta separação dos materiais recicláveis, de forma lúdica e interativa.
 
