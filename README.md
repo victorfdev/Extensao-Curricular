@@ -1,20 +1,22 @@
 # Extensao-Curricular
 
-Roteiro do Jogo: "Recicle e Salve o Planeta"
-Objetivo do Jogo
+## Roteiro do Jogo: "Recicle e Salve o Planeta"
+
+### Objetivo do Jogo
+
 Educar os jogadores sobre a importância da reciclagem e a correta separação dos materiais recicláveis, de forma lúdica e interativa.
 
-Enredo
+**Enredo**
 Você é um herói ecológico chamado Eco, cuja missão é salvar a cidade de Reciclandia, que está sendo invadida por montanhas de lixo. Seu objetivo é ajudar os moradores a separar corretamente o lixo para reciclagem e manter a cidade limpa e saudável.
 
-Fases do Jogo
+**Fases do Jogo**
 Introdução
 
 Cena Inicial: Eco recebe um chamado urgente do prefeito de Reciclandia.
 
 Tutorial: Introdução aos controles básicos e ao conceito de reciclagem.
 
-Fase 1: Coleta de Materiais Recicláveis
+*Fase 1:* Coleta de Materiais Recicláveis
 
 Objetivo: Coletar itens recicláveis espalhados pela cidade.
 
@@ -22,7 +24,7 @@ Tarefas: Identificar e coletar papel, plástico, vidro e metal.
 
 Mini-Jogo: Arrastar cada item para o contêiner de reciclagem correto.
 
-Fase 2: Separação do Lixo
+*Fase 2:* Separação do Lixo
 
 Objetivo: Ensinar a diferença entre materiais recicláveis e não recicláveis.
 
@@ -30,7 +32,7 @@ Tarefas: Separar itens como baterias, eletrônicos e lixo orgânico.
 
 Desafio: Tempo limitado para classificar os itens corretamente.
 
-Fase 3: Reciclagem Criativa
+*Fase 3:* Reciclagem Criativa
 
 Objetivo: Mostrar o reuso criativo de materiais recicláveis.
 
@@ -38,7 +40,7 @@ Tarefas: Transformar itens recicláveis em novos produtos, como brinquedos ou ut
 
 Atividade: Montagem de itens através de quebra-cabeças.
 
-Fase Final: Limpeza da Cidade
+*Fase Final:* Limpeza da Cidade
 
 Objetivo: Limpar toda a cidade de Reciclandia.
 
