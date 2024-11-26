@@ -1,0 +1,22 @@
+{
+	"name": "PlanoDeFundoEmBlocos5",
+	"plugin-id": "TiledBg",
+	"sid": 236645799562566,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [],
+	"effectTypes": [],
+	"image": {
+		"width": 1024,
+		"height": 576,
+		"originX": 0.5,
+		"originY": 0.5,
+		"originalSource": "",
+		"exportFormat": "lossless",
+		"exportQuality": 0.8,
+		"fileType": "image/png",
+		"imageSpriteId": 6365453,
+		"useCollisionPoly": true,
+		"tag": ""
+	}
+}
